@@ -100,4 +100,40 @@ export const StyledButton = styled.a`
   border-radius: 100px;
   font-weight: 400;
   text-transform: uppercase;
+  transition: all 0.3s;
+
+  animation: ${moveInUp} 1.5s ease-out 1.7s;
+  animation-fill-mode: backwards;
+
+  position: relative;
+
+  :hover {
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
+    transform: translateY(-3px);
+  }
+
+  :active {
+    transform: translateY(-1px);
+    box-shadow: 0 5px 10px rgba(0, 0, 0, 0.2);
+  }
+
+  ::before {
+    content: "";
+    background-color: white;
+    display: block;
+    width: 100%;
+    height: 100%;
+    border-radius: 50px;
+    position: absolute;
+    top: 0;
+    right: 0;
+    z-index: -1;
+
+    transition: all 1s;
+  }
+
+  :hover::before {
+    transform: scale(1.3);
+    opacity: 0;
+  }
 `;
