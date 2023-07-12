@@ -1,70 +1,71 @@
-# Getting Started with Create React App
+<h1 align="center">
+     NATOURS
+</h1>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![HomePage](./src/img/NatoursPreview.png)
 
-## Available Scripts
 
-In the project directory, you can run:
+##  🕵About
 
-### `npm start`
+In this repository you find the code for the Natours' LandingPage, a fictional company that sells tours through natural places. 
+##  👩🏾Who does
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- Eduardo Rottschaefer Oliveira
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Conect with me on LinkedIn! - https://www.linkedin.com/in/eduardo-rottschaefer
 
-### `npm test`
+---
+##  🧭Status do Projeto
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+ - ⌛ In production
 
-### `npm run build`
+---
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+##  🎯Project's Purpose
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+The main goal is to enhance my skills CSS skills, implementing a modern clean code while diving in the CSS and Sass structure to enhance the app performance. 
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+This project is part of the [Advanced CSS and Sass](https://www.udemy.com/course/advanced-css-and-sass/) from Jonas Schmedtmann.
+Differently from the course, I'm using React with Styled-Components to achieve the same result. 
 
-### `npm run eject`
+## ☑️Features
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+- [x] Clean Code
+- [x] Modern CSS techniques
+- [x] CSS animations
+- [x] Add products to cart
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## 👨‍💻Technologies and Structures
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+- [x] ReactJS
+- [x] JavaScript
+- [x] HTML/CSS
+- [x] Styled-Components
+- [x] Component Structure
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
 
-### Code Splitting
+## 🔗Deploy Link
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+- **Deploy Link**: https://natours-eight-plum.vercel.app/#
 
-### Analyzing the Bundle Size
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+---
 
-### Making a Progressive Web App
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+## 🛰Running the Project
 
-### Advanced Configuration
+- Clone this repository on your machine with the command git clone https://github.com/Rottschaefer/vivra-ecommerce.git
+- Open the project file through the terminal
+- Run npm install command
+- Run npm start command
+- Ready! Now the application is already running on your machine :)
+- Enjoy :)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+---
 
-### Deployment
+## 📝License
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+This project is under the MIT license [MIT](./LICENSE).
